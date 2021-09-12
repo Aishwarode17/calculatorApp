@@ -1,2 +1,7 @@
 # calculatorAppReact
-This is a fully responsive calculator application made with react , by me , The Green Sindbad. 
+This fully responsive calculator web app is created by me Eaishawarya Malviya Aka sindbad.
+
+Only html5, css3  and js is used.
+Js dom methods are used .
+
+Hope you like it, Enjoy!!!!
